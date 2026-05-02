@@ -1,10 +1,10 @@
 {
-  "name": "mon-portfolio",
+  "name": "Axel-Arnold-Portfolio-v2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
 
-  "homepage": "https://axel-157.github.io/mon-portfolio/",
+  "homepage": "https://axel-157.github.io/Axel-Arnold-Portfolio-v2/",
 
   "scripts": {
     "dev": "vite",
